@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visio Figure Redrawer"
+  short_description: "Redraw figures and model projects as editable Visio diagrams."
+  default_prompt: "Use $visio-figure-redrawer to read my reference figure or model project and create a journal-ready editable Visio diagram."
